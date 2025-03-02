@@ -4,8 +4,6 @@ As we all do in this convoluted yet exciting world we live in, I own at least 10
 The initial idea behind this project is to come up with a web-based solution self-hosted on a Raspberry Pi 5 in my local network that allows me to keep my data assets on track,
 having a proper inventory of them in a general sense, learning a thing or two in the process.
 
-## The Need Behind This
-
 ## Possible Implementations:
 🚀 1. Rclone + SQLite (DIY Solution)
 🧭 2. Recoll (Search & Indexing)

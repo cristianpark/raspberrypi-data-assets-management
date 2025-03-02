@@ -1,5 +1,5 @@
 # Data Assets Management in Raspberry Pi
-The main painpoint I want to address by this initiative is to better organize my data assets, as well as keep a clear picture of the backup strategy of the important datasets.
+The main pain point I want to address by this initiative is to better organize my data assets, as well as keep a clear picture of the backup strategy of the important datasets.
 
 The initial idea behind this project is to come up with a web-based solution self hosted in a Raspberry Pi 5 in my local network that allows me to keep my data assets on track,
 having a proper inventory of them in a general sense.
